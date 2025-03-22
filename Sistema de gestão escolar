@@ -1,0 +1,22 @@
+Requisitos funcinais:
+1. o sistema deve permitiir que os professores podem dar notas ao alunos
+2.o sistema deve permitir que os alunos possam acessar as sua notas.
+3.Comunicação com os pais e alunos.
+4.controle de matriculas.
+5.gestão de matriculas 
+6. Emissão de boletins 
+7.gestao financeira
+
+Requisitos não funcionais:
+
+1.Segurança: Proteger o sistema contra acesso não autorizado e garantir a integridade dos dados. 
+
+2.Usabilidade: Tornar o sistema fácil de aprender e de usar, tornando a realização de tarefas fácil e agradável. 
+
+3.Confiabilidade: Garantir que o sistema funcione de forma consistente e correta. 
+
+4.Disponibilidade: Estar disponível para uso sempre que necessário. 
+
+5.Escalabilidade: Ser capaz de lidar com um grande número de solicitações simultaneamente. 
+
+6.Adaptabilidade: Ser capaz de se adaptar a diferentes usuários e contexto.
